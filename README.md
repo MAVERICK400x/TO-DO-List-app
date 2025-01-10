@@ -16,9 +16,3 @@ This TO DO List app allows users to:
 ## License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
-
-## Activity
-
-- **Stars**: 0 stars
-- **Watchers**: 1 watching
-- **Forks**: 0 forks
